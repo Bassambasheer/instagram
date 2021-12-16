@@ -1,0 +1,198 @@
+
+@media (max-width:970px){
+    .empty{
+          display: none;
+        }
+      }
+#topbar{
+    width: 100%;
+    height: 60px;
+    background-color: #FFFFFF;
+    border: solid 1px ;
+    border-color: #DBDBDB;
+    display: flex;
+      
+}
+.icon{
+    width: 103px;
+    height: 33px;
+    margin-left: 130px;
+    margin-top: 15px;
+}
+.search{
+    width: 268px;
+    height: 36px;
+    font-size: 12px;
+
+    margin-left: 235px;
+    margin-top: 10px;
+    border-color: #DBDBDB;
+    padding-left: 20px;
+}
+.home{
+    margin: 15px 10px 5px 70px;
+}
+.message{
+    margin: 15px 10px 5px 15px;
+}
+@media (max-width:1070px){
+.search{
+      display: none;
+    }
+  }
+  @media (max-width:1170px){
+    .aside{
+          display: none;
+        }
+      }
+  #statusbar{
+      width: 616px;
+      height: 118px;
+      margin:auto;
+      margin-top: 20px; 
+      background-color: #FFFFFF;
+      border: 1px solid;
+      border-color: #DBDBDB;
+      display: flex;
+      padding: 10px 10px 10px 10px;
+      overflow: auto;
+    
+  }
+  .myimgdivshowhide{
+      display: none;
+  }
+  #st button{
+      border: none;
+      border-radius: 40px;
+      background: white;
+  }
+  #st img{
+      border-radius: 40px;
+    
+  }
+  .st{
+      font-size: 11px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      margin-left: 8px;  
+    }
+  .sidebar{
+      width: 320px;
+      height: 50px;
+      background:#FAFAFA ;
+      margin-left: -90px;
+      margin-top: 20px;
+     
+      
+  }
+  .content1{
+      float: left;
+  }
+  .content2{
+      float: left;
+  }
+  .img{
+      display: flex;
+  }
+  .suggestion{
+      display: flex;
+  }
+  .see{
+      margin-left: 107px;
+  }
+  .name{
+      margin-left:10px; 
+      font-size: 14px;
+  }
+  .switch{
+      margin-left: 102px;
+      margin-top: 10px;
+  }
+  .sugg1{
+      font-size: 12px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    margin-left: 10px;
+    margin-top: 8px;
+    }
+    .img1{
+        display: flex;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+    .follow{
+        margin-left: 98px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .in{
+        display: flex;
+    }
+    .i{
+        margin-top: 15px;
+    }
+  #pos1{
+    width: 616px;
+    margin:auto 130px; 
+    background-color: #FFFFFF;
+    border: 1px solid;
+    border-color: #DBDBDB;
+    margin-top: 20px;
+  }
+  .profilebar{
+      display: flex;
+      margin: 10px 10px 10px 15px;
+
+  }
+  .proname{
+      padding:5px 5px 5px 5px;
+      font-size: 14px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      color: #262626; 
+      cursor: pointer;
+    }
+    .moreoption{
+        margin-left: 420px;
+    }
+    .react{
+        display: flex;
+    }
+  #like{
+    padding:15px 15px 15px 15px;
+    
+  }
+  #comment{
+    padding:15px 10px 10px 10px ;
+  }
+  #share{
+    padding:16px 10px 10px 15px ;
+  } 
+  #save{
+    padding:16px 10px 10px 400px ;
+  }
+  #like button{
+      border: none;
+      
+  }
+  #comment button{
+    border: none;
+    color: white;
+}
+#share button{
+    border: none;
+    color: white;
+}
+#save button{
+    border: none;
+    color: white;
+}
+  .cmd{
+      display: flex;
+  }
+  .cmdhr{
+      width: 514px;
+      height: 18px;
+      margin-top: 6px;
+      border: none;
+  }
+  
+ 

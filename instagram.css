@@ -1,0 +1,84 @@
+
+#contentbox{
+   border: 1px double;
+    /* height: 550px; */
+    width: 350px;
+    margin: 20px auto;
+    background: #ffffff;
+    border-color: #DBDBDB;
+}
+.instaicon{
+    padding: 30px 30px 30px 90px ;
+}
+#username{
+    width: 100%;
+}
+#userid{
+    height: 40px;
+    width: 290px;
+    margin: 10px 10px 10px 30px;
+    font-size: 13px;
+}
+#password{
+    height: 40px;
+    width: 290px;
+    margin: 10px 10px 10px 30px;
+    font-size: 13px;
+}
+.btn{
+    height: 40px;
+    width: 290px;
+    margin: 10px 10px 10px 30px;
+    font-size: 13px;
+}
+.section2{
+    display: flex;
+    
+} 
+.section21{
+    width: 300px;
+    padding-right: 10px;
+    padding-left: 10px; 
+} 
+.section22{
+   text-align: center;  
+} 
+.facebook{
+    width: 100%;
+    display: flex;
+}
+.fbicon{
+    padding-left: 95px;
+    padding-top: 20px;
+}
+.fblink{
+   text-align: center;
+   padding-left: 10px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #385185;
+    cursor: pointer;
+}
+.forgot{
+    width: 100%;
+   text-align: center;
+    font-size: 12px;
+    cursor: pointer;
+}
+.newacc{
+    text-align: center;
+    font-size: 14px;
+    margin: 0px;
+}
+.getapp{    text-align: center;
+    font-size: 14px;
+}
+.appstore{
+    display: flex;
+
+}
+.appstore img{
+    width: 140px;
+    height: 40px;
+    margin-left: 30px;
+}
